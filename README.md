@@ -1,3 +1,2 @@
 # JupyterNotebook-charts
 
-## Hello World
